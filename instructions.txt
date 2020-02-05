@@ -1,0 +1,3 @@
+This program was written in Visual Studio so its best to run it within the IDE. In order to compile and run the program,
+you must press ctrl + F5 in order to prevent the console window from exiting whenever the program finishes. After, you can
+enter a number and the program should run.
